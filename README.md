@@ -1,0 +1,2 @@
+# homework-2
+This project is to demonstrate knowledge of the bootstrap styles CDN and the general concept of "responsive" styling, which means making things readable on different devices. The project consists of three html files (index, portfolio and contact), one css file and several image files. The code is a composite of wireframes and techniques we learned in class, plus the results of a few google searches. The site appears to function as intended.  I hope you enjoy it. 
